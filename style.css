@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Roboto Mono', monospace;
+}
+/* the main container */
+
+.front-side,
+.back-side {
+  width: 220px;
+  height: 390px;
+  /* display: grid; */
+  /* each student will customize based on their grid */
+  /* grid-template-columns: 2% 96% 2%;
+  grid-template-rows: 4% 92% 4%; */
+  position: relative;
+  /* adjust this to space out the cards */
+  margin: 20px auto;
+  overflow: hidden;
+  box-shadow: 2px 5px 15px 0px #17161694;
+  background-color: none;
+}
+
+.front-side{
+  background-image: url('Buz2.svg');
+  background-repeat: no-repeat;
+}
+
+.back-side{
+  background-repeat: no-repeat;
+  background-image: url('Buz3.svg')
+}
+
+.name{
+  display: grid;
+  position: relative;
+  margin-left:20px;
+  padding: 10px;
+  margin-top: 100px;
+
+}
+
+.secondary{
+  display: grid;
+  position: relative;
+  margin-left:30px;
+
+}
+
+
+
+h3{
+  color:blueviolet;
+}
+
+h5{
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.Graphic{
+  color:blue
+}
