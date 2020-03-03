@@ -6,14 +6,12 @@
 	.st0{fill:#FF32E8;}
 	.st1{fill:url(#SVGID_1_);}
 	.st2{fill:url(#SVGID_2_);}
-	.st3{fill:#F2F2F2;}
-	.st4{font-family:'HelveticaNeue-Medium';}
-	.st5{font-size:5.5px;}
+	.st3{fill:#1106EF;}
 </style>
-<ellipse class="st0" cx="93.33" cy="115.34" rx="95.19" ry="95.09"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-30.6976" y1="-640.0175" x2="113.0156" y2="-640.0175" gradientTransform="matrix(0 1 -1 0 -605.1232 30.6976)">
+<ellipse class="st0" cx="93.3" cy="115.3" rx="95.2" ry="95.1"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-30.6976" y1="-640.0233" x2="113.0024" y2="-640.0233" gradientTransform="matrix(0 1 -1 0 -605.1232 30.6976)">
 	<stop  offset="0" style="stop-color:#0000FF"/>
-	<stop  offset="0.0403" style="stop-color:#1106EF"/>
+	<stop  offset="4.030000e-02" style="stop-color:#1106EF"/>
 	<stop  offset="0.1895" style="stop-color:#4C1CBA"/>
 	<stop  offset="0.3384" style="stop-color:#7E2F8C"/>
 	<stop  offset="0.4838" style="stop-color:#A73F67"/>
@@ -22,10 +20,10 @@
 	<stop  offset="0.8882" style="stop-color:#EC5828"/>
 	<stop  offset="1" style="stop-color:#F15A24"/>
 </linearGradient>
-<polygon class="st1" points="12.48,143.71 12.48,0 57.31,0 57.31,143.71 "/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-23.2642" y1="-1218.1429" x2="91.0938" y2="-1218.1429" gradientTransform="matrix(-1 0 0 -1 91.5758 -1139.4923)">
+<polygon class="st1" points="12.5,143.7 12.5,0 57.3,0 57.3,143.7 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-23.2242" y1="-1218.1423" x2="91.0758" y2="-1218.1423" gradientTransform="matrix(-1 0 0 -1 91.5758 -1139.4923)">
 	<stop  offset="0" style="stop-color:#0000FF"/>
-	<stop  offset="0.0403" style="stop-color:#1106EF"/>
+	<stop  offset="4.030000e-02" style="stop-color:#1106EF"/>
 	<stop  offset="0.1895" style="stop-color:#4C1CBA"/>
 	<stop  offset="0.3384" style="stop-color:#7E2F8C"/>
 	<stop  offset="0.4838" style="stop-color:#A73F67"/>
@@ -34,6 +32,6 @@
 	<stop  offset="0.8882" style="stop-color:#EC5828"/>
 	<stop  offset="1" style="stop-color:#F15A24"/>
 </linearGradient>
-<polygon class="st2" points="0.48,56.24 114.84,56.24 114.84,101.06 0.48,101.06 "/>
-<text transform="matrix(1 0 0 1 67.4819 147.5375)"><tspan x="0" y="0" class="st3 st4 st5">Linkedin: Magalys Fiske</tspan><tspan x="0" y="6.6" class="st3 st4 st5">Instagram: mfiskedesign</tspan></text>
+<polygon class="st2" points="0.5,56.2 114.8,56.2 114.8,101.1 0.5,101.1 "/>
+<rect x="-162.7" y="-32.7" class="st3" width="84.3" height="66.6"/>
 </svg>
